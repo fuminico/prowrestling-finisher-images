@@ -1,0 +1,163 @@
+[
+  {
+    "id": "inoki",
+    "name_ja": "アントニオ猪木",
+    "finisher": { "id": "manjigatame", "name_ja": "卍固め" },
+    "era": "昭和",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/antonio_inoki_manjigatame.jpg"
+  },
+  {
+    "id": "brody",
+    "name_ja": "ブルーザー・ブロディ",
+    "finisher": { "id": "guillotine_drop", "name_ja": "ギロチンドロップ" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/bruiser_brody_guillotine_drop.jpg"
+  },
+  {
+    "id": "baba",
+    "name_ja": "ジャイアント馬場",
+    "finisher": { "id": "16_mon_kick", "name_ja": "16文キック" },
+    "era": "昭和",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/giant_baba_16_mon_kick.jpg"
+  },
+  {
+    "id": "cena",
+    "name_ja": "ジョン・シナ",
+    "finisher": { "id": "attitude_adjustment", "name_ja": "アティテュード・アジャストメント" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/john_cena_attitude_adjustment.jpg"
+  },
+  {
+    "id": "okada",
+    "name_ja": "オカダ・カズチカ",
+    "finisher": { "id": "rainmaker", "name_ja": "レインメーカー" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/kazuchika_okada_rainmaker.jpg"
+  },
+  {
+    "id": "omega",
+    "name_ja": "ケニー・オメガ",
+    "finisher": { "id": "one_winged_angel", "name_ja": "片翼の天使" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/kenny_omega_one_winged_angel.jpg"
+  },
+  {
+    "id": "misawa",
+    "name_ja": "三沢光晴",
+    "finisher": { "id": "elbow_suicida", "name_ja": "エルボー・スイシーダ" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/mitsuharu_misawa_elbow_suicida.jpg"
+  },
+  {
+    "id": "marufuji",
+    "name_ja": "丸藤正道",
+    "finisher": { "id": "shiranui", "name_ja": "不知火" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/naomichi_marufuji_shiranui.jpg"
+  },
+  {
+    "id": "choshu",
+    "name_ja": "長州力",
+    "finisher": { "id": "riki_lariat", "name_ja": "リキラリアット" },
+    "era": "昭和",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/riki_chosyu_rikilariat.jpg"
+  },
+  {
+    "id": "nakamura",
+    "name_ja": "中邑真輔",
+    "finisher": { "id": "boma_ye", "name_ja": "ボマイェ" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/shinsuke_nakamura_boma_ye.jpg"
+  },
+  {
+    "id": "hansen",
+    "name_ja": "スタン・ハンセン",
+    "finisher": { "id": "western_lariat", "name_ja": "ウエスタン・ラリアット" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/stan_hansen_western_lariat.jpg"
+  },
+  {
+    "id": "fujinami",
+    "name_ja": "藤波辰爾",
+    "finisher": { "id": "dragon_sleeper", "name_ja": "ドラゴンスリーパー" },
+    "era": "昭和",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/tatsumi_fujinami_dragon_sleeper.jpg"
+  },
+  {
+    "id": "undertaker",
+    "name_ja": "ジ・アンダーテイカー",
+    "finisher": { "id": "tombstone_piledriver", "name_ja": "ツームストン・パイルドライバー" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/undertaker_tombstone_piledriver.jpg"
+  },
+  {
+    "id": "tanahashi",
+    "name_ja": "棚橋弘至",
+    "finisher": { "id": "high_fly_flow", "name_ja": "ハイフライフロー" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/hiroshi_tanahashi_high_fly_flow.jpg"
+  },
+  {
+    "id": "tsuruta",
+    "name_ja": "ジャンボ鶴田",
+    "finisher": { "id": "backdrop", "name_ja": "バックドロップ" },
+    "era": "昭和",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/jumbo_tsuruta_backdrop.jpg"
+  },
+  {
+    "id": "hogan",
+    "name_ja": "ハルク・ホーガン",
+    "finisher": { "id": "axe_bomber", "name_ja": "アックスボンバー" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/hulk_hogan_axe_bomber.jpg"
+  },
+  {
+    "id": "muto",
+    "name_ja": "武藤敬司",
+    "finisher": { "id": "shining_wizard", "name_ja": "シャイニングウィザード" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/keiji_muto_shining_wizard.jpg"
+  },
+  {
+    "id": "hashimoto",
+    "name_ja": "橋本真也",
+    "finisher": { "id": "vertical_drop_ddt", "name_ja": "垂直落下式DDT" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/shinya_hashimoto_vertical_drop_ddt.jpg"
+  },
+  {
+    "id": "naito",
+    "name_ja": "内藤哲也",
+    "finisher": { "id": "destino", "name_ja": "デスティーノ" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/tetsuya_naito_destino.jpg"
+  },
+  {
+    "id": "makabe",
+    "name_ja": "真壁刀義",
+    "finisher": { "id": "king_kong_knee_drop", "name_ja": "キングコング・ニードロップ" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/togi_makabe_king_kong_knee_drop.jpg"
+  },
+  {
+    "id": "goldberg",
+    "name_ja": "ビル・ゴールドバーグ",
+    "finisher": { "id": "jackhammer", "name_ja": "ジャックハマー" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/bill_goldberg_jackhammer.jpg"
+  },
+  {
+    "id": "rock",
+    "name_ja": "ザ・ロック",
+    "finisher": { "id": "peoples_elbow", "name_ja": "ピープルズ・エルボー" },
+    "era": "海外",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/the_rock_peoples_elbow.jpg"
+  },
+  {
+    "id": "minoru_suzuki",
+    "name_ja": "鈴木みのる",
+    "finisher": { "id": "sleeper_hold", "name_ja": "スリーパーホールド" },
+    "era": "平成",
+    "image_url": "https://raw.githubusercontent.com/fuminico/prowrestling-finisher-images/main/minoru_suzuki_sleeper_hold.jpg"
+  }
+]
